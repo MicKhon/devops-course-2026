@@ -1,2 +1,11 @@
-# devops-course-2026
-DevOps course 2026 — Git and GitHub practices
+# DevOps Course 2026
+
+Учебный репозиторий курса "Инструменты DevOps".
+
+## Автор
+Хонинев Михаил, группа ЭФБО-10-24
+
+## Стек
+- Git / GitHub
+- Python
+- Docker (скоро)
